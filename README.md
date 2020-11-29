@@ -55,8 +55,4 @@ Para esto deberás crear un modelo que estimé dicha probabilidad para cada una 
 4.	Marca_Inno1: Marca_38- Cupo_2 -CapacidadEnvase_10
 5.	Marca_Inno2: Marca_39-Cupo_2-CapacidadEnvase_10
 
-## ¿Qué enviar?
 
-1. El output requerido completo.csv​
-2. Código completo de la construcción de la solución (únicamente R o Python – no evaluaremos códigos en software comerciales).link de github​
-3. Una presentación a detalle de la metodología usada para resolver el problema, el modelo aplicado,  consideraciones y resultados obtenidos. (Máximo 5 diapositivas).​

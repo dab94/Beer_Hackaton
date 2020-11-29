@@ -1,6 +1,13 @@
+# Estructura
+
+**Jupyter_Notebooks** Contiene los Jupyter Notebooks utilizados para explorar los datos (**cerveza_visual**) y posteriormente entrenar un modelo de XGBoost para predecir la probabilidad de que un cliente un producto específico (**Bavaria_Hackaton**)
+
+
+**reto-colombia-2020-main** Contiene los datos comprimidos, utilizados como inputs a los Jupyter Notebooks. Al igual contiene el csv de salida, el cuál muestra las probabilidades obtenidas con el modelo seleccionado.
+
 # Reto Colombia
 
-En Bavaria queremos encontrar la mejor estrategia de impulso, mantenimiento o frenado, de un listado de marcas establecido, con el objetivo de ofrecer el mejor portafolio a nuestros puntos de venta/zonas dependiendo de sus características e historial de compra.​
+Queremos encontrar la mejor estrategia de impulso, mantenimiento o frenado, de un listado de marcas establecido, con el objetivo de ofrecer el mejor portafolio a nuestros puntos de venta/zonas dependiendo de sus características e historial de compra.​
 
 ## ¿Qué construir?
 
@@ -20,7 +27,7 @@ Para esto deberás crear un modelo que estimé dicha probabilidad para cada una 
 - Regional2: Región donde se encuentra ubicado (Conjunto de departamentos)
 - Gerencia2: Gerencia que le distribuye el producto (Conjunto de 1, 2 o mas ciudades)	
 - SubCanal2: Tipo de establecimiento: (Tienda, Bar, etc)	
-- Categoria: Variable definida por AB-Inbev para calificar la importancia de un establecimiento dada su compra histórica. 	
+- Categoria: Variable definida para calificar la importancia de un establecimiento dada su compra histórica. 	
 - Nevera: Variable dummie que me permite ver si el establecimiento tiene o no una nevera en su punto de venta.
 
 

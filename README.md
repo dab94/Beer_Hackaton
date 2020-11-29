@@ -1,6 +1,6 @@
 # Estructura
 
-**Jupyter_Notebooks** Contiene los Jupyter Notebooks utilizados para explorar los datos (**cerveza_visual**) y posteriormente entrenar un modelo de XGBoost para predecir la probabilidad de que un cliente un producto específico (**Bavaria_Hackaton**)
+**Jupyter_Notebooks** Contiene los Jupyter Notebooks utilizados para explorar los datos (**cerveza_visual**) y posteriormente entrenar un modelo de XGBoost para predecir la probabilidad de que un cliente un producto específico (**Beer_Hackaton**)
 
 
 **reto-colombia-2020-main** Contiene los datos comprimidos, utilizados como inputs a los Jupyter Notebooks. Al igual contiene el csv de salida, el cuál muestra las probabilidades obtenidas con el modelo seleccionado.
